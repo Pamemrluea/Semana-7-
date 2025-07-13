@@ -1,2 +1,5 @@
+En el primer código, usamos Stack<Character> para guardar los símbolos de apertura y verificar si sus cierres coinciden.
+En el segundo código, las pilas simulan las tres torres. Cada disco es representado por un número entero (mientras menor el número, menor el tamaño del disco).
+Los mensajes impresos muestran cada movimiento paso a paso, lo que puedes capturar con pantallazos si necesitas mostrar evidencia del proceso.
 https://www.programiz.com/online-compiler/8DnUFao2W0egi
 https://www.programiz.com/online-compiler/4Tv36wjkiWFZb
